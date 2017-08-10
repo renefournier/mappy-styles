@@ -1,6 +1,6 @@
 {
   "name": "mappy-styles",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Modified styles for TileServer-GL (forked from tileserver-gl-styles)",
   "authors": [
     "René Fournier <renefournier@gmail.com>"
