@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "name": "Klokantech Basic",
+  "name": "KlokanTech Basic",
   "metadata": {
     "mapbox:autocomposite": false,
     "mapbox:type": "template",
@@ -295,8 +295,8 @@
         "text-field": "{housenumber}",
         "text-size": 10,
         "text-font": [
-          "Klokantech Noto Sans Regular",
-          "Klokantech Noto Sans CJK Regular"
+          "KlokanTech Noto Sans Regular",
+          "KlokanTech Noto Sans CJK Regular"
         ]
       },
       "paint": {
@@ -930,8 +930,8 @@
       "layout": {
         "text-size": 11,
         "text-font": [
-          "Klokantech Noto Sans Regular",
-          "Klokantech Noto Sans CJK Regular"
+          "KlokanTech Noto Sans Regular",
+          "KlokanTech Noto Sans CJK Regular"
         ],
         "visibility": "visible",
         "text-offset": [
@@ -964,8 +964,8 @@
         "symbol-placement": "line",
         "text-field": "{name:latin} {name:nonlatin}",
         "text-font": [
-          "Klokantech Noto Sans Regular",
-          "Klokantech Noto Sans CJK Regular"
+          "KlokanTech Noto Sans Regular",
+          "KlokanTech Noto Sans CJK Regular"
         ],
         "text-transform": "uppercase",
         "text-letter-spacing": 0.1,
@@ -1012,8 +1012,8 @@
       "layout": {
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": [
-          "Klokantech Noto Sans Regular",
-          "Klokantech Noto Sans CJK Regular"
+          "KlokanTech Noto Sans Regular",
+          "KlokanTech Noto Sans CJK Regular"
         ],
         "text-max-width": 6,
         "text-size": {
@@ -1060,8 +1060,8 @@
       "layout": {
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": [
-          "Klokantech Noto Sans Regular",
-          "Klokantech Noto Sans CJK Regular"
+          "KlokanTech Noto Sans Regular",
+          "KlokanTech Noto Sans CJK Regular"
         ],
         "text-max-width": 10,
         "text-size": {
@@ -1106,8 +1106,8 @@
       "layout": {
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": [
-          "Klokantech Noto Sans Bold",
-          "Klokantech Noto Sans CJK Bold"
+          "KlokanTech Noto Sans Bold",
+          "KlokanTech Noto Sans CJK Bold"
         ],
         "text-max-width": 10,
         "text-size": {
